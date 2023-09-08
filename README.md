@@ -1,5 +1,6 @@
 # Propyecto_Juego_Pyhton
 Juego didactico hecho en python con pygame elaborado por:
+
 Miguel Rodriguez Narvaez A00840718
 Maximo Vecchi A01286070
 Marcelo Alejandro Peña Salinas A00839679
