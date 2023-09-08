@@ -1,4 +1,4 @@
-# Propyecto_Juego_Pyhton
+# Proyecto_Juego_Pyhton
 Juego didactico hecho en python con pygame elaborado por:
 
 Miguel Rodriguez Narvaez A00840718
